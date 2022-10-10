@@ -51,7 +51,7 @@ body{background-color:#101820ff;
 
 .menu-back{width:100%;
            height:100vh;
-           background-image: url("C:\Users\WINDOW 7\Desktop\my projects\my porfolio\Images\istockphoto-464727072-612x612.jpg");
+           background-image: url("Images\istockphoto-464727072-612x612.jpg");
            position:absolute;
            backdrop-filter:blur(10px);
            opacity:1;}
